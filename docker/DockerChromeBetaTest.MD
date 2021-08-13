@@ -10,9 +10,9 @@
 ## Post-conditions
 * Webdriver and corresponding chrome browser must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* N/A
+* 8/13/21 14:00:34
 ## Test Case Results
-* N/A
+* Fail
 ---
 ## Test Steps
 1. Step 1
@@ -23,7 +23,7 @@
 	* Expected Results
 		* Chrome open successully then navigate to https://bonigarcia.org/webdrivermanager/ (Title contains "WebDriverManager")
 	* Actual Results
-		* N/A
+		* Exception
 	* Pass / Fail / Not executed / Suspended
-		* N/A
+		* Fail
 ---

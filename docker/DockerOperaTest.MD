@@ -10,7 +10,7 @@
 ## Post-conditions
 * Webdriver and corresponding Opera browser must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* N/A
+* 8/13/21 14:19:15
 ## Test Case Results
 * N/A
 ---

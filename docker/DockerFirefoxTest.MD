@@ -10,9 +10,9 @@
 ## Post-conditions
 * Webdriver and corresponding Firefox browser must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* N/A
+* 8/13/21 14:37:47
 ## Test Case Results
-* N/A
+* Fail
 ---
 ## Test Steps
 1. Step 1
@@ -26,5 +26,5 @@
 	* Actual Results
 		* N/A
 	* Pass / Fail / Not executed / Suspended
-		* N/A
+		* Fail
 ---

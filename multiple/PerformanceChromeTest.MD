@@ -10,9 +10,9 @@
 ## Post-conditions
 * Webdriver and corresponding browsers must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* N/A
+* 8/13/21 13:59:15
 ## Test Case Results
-* N/A
+* Pass
 ---
 ## Test Steps
 1. Step 1
@@ -23,9 +23,9 @@
 	* Expected Results
 		* 5 Chrome instances open successully then navigate to https://bonigarcia.org/webdrivermanager/
 	* Actual Results
-		* N/A
+		* As expected
 	* Pass / Fail / Not executed / Suspended
-		* N/A
+		* Pass
 2. Step 2
 	* Step Details
 		* Check title of chrome instances.
@@ -34,7 +34,7 @@
 	* Expected Results
 		* Each Chrome instance of 5 must has title "WebDriverManager"
 	* Actual Results
-		* N/A
+		* As expected
 	* Pass / Fail / Not executed / Suspended
-		* N/A
+		* Pass
 ---

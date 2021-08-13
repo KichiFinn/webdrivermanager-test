@@ -10,9 +10,9 @@
 ## Post-conditions
 * Webdriver and corresponding chrome browser must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* N/A
+* 8/13/21 14:06:13
 ## Test Case Results
-* N/A
+* Pass
 ---
 ## Test Steps
 1. Step 1
@@ -23,9 +23,9 @@
 	* Expected Results
 		* Chrome open successully then navigate to http://szimek.github.io/signature_pad/
 	* Actual Results
-		* N/A
+		* As expected
 	* Pass / Fail / Not executed / Suspended
-		* N/A
+		* Pass
 2. Step 2
 	* Step Details
 		* Drag canvas has tagname = "canvas" from (8,8) to (120, 120) then (-120, 120) and (-120, -120)
@@ -35,7 +35,7 @@
 	* Expected Results
 		* N/A
 	* Actual Results
-		* N/A
+		* As expected
 	* Pass / Fail / Not executed / Suspended
-		* N/A
+		* Pass
 ---

@@ -10,9 +10,9 @@
 ## Post-conditions
 * Webdriver and corresponding chrome browser must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* N/A
+* 8/13/21 14:12:59
 ## Test Case Results
-* N/A
+* Pass
 ---
 ## Test Steps
 1. Step 1
@@ -24,7 +24,7 @@
 		* Chrome open in headless mode successully then navigate to https://bonigarcia.org/webdrivermanager/
 		* Title must contains "WebDriverManager"
 	* Actual Results
-		* N/A
+		* As expected
 	* Pass / Fail / Not executed / Suspended
-		* N/A
+		* Pass
 ---

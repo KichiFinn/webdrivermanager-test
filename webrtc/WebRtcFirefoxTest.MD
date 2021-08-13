@@ -10,9 +10,9 @@
 ## Post-conditions
 * Webdriver and corresponding Firefox browser must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* N/A
+* 8/13/21 14:23:49
 ## Test Case Results
-* N/A
+* Pass
 ---
 ## Test Steps
 1. Step 1
@@ -24,7 +24,7 @@
 	* Expected Results
 		* Firefox open successully then navigate to https://webrtc.github.io/samples/src/content/devices/input-output/
 	* Actual Results
-		* N/A
+		* As expected
 	* Pass / Fail / Not executed / Suspended
-		* N/A
+		* Pass
 ---

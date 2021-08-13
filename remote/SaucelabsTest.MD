@@ -9,9 +9,9 @@
 ## Post-conditions
 * Chrome browser on Saucelabs must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* N/A
+* 8/13/21 14:12:54
 ## Test Case Results
-* N/A
+* Not executed
 ---
 ## Test Steps
 1. Step 1
@@ -27,7 +27,7 @@
 	* Actual Results
 		* N/A
 	* Pass / Fail / Not executed / Suspended
-		* N/A
+		* Not executed
 2. Step 2
 	* Step Details
 		* Navigate to https://bonigarcia.org/webdrivermanager/
@@ -38,5 +38,5 @@
 	* Actual Results
 		* N/A
 	* Pass / Fail / Not executed / Suspended
-		* N/A
+		* Not executed
 ---

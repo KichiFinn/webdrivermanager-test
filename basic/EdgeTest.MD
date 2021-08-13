@@ -10,9 +10,9 @@
 ## Post-conditions
 * Webdriver and corresponding edge browser must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* N/A
+* 8/13/21 14:31:20
 ## Test Case Results
-* N/A
+* Fail
 ---
 ## Test Steps
 1. Step 1
@@ -23,9 +23,9 @@
 	* Expected Results
 		* Edge open successully then navigate to https://bonigarcia.org/webdrivermanager/
 	* Actual Results
-		* N/A
+		* org.openqa.selenium.WebDriverException: unknown error: cannot find MSEdge binary
 	* Pass / Fail / Not executed / Suspended
-		* N/A
+		* Fail
 2. Step 2
 	* Step Details
 		* Click element has id = "examples"
@@ -34,7 +34,7 @@
 	* Expected Results
 		* element tagName= "body" has text value = "WebDriverManager"
 	* Actual Results
-		* N/A
+		* org.openqa.selenium.WebDriverException: unknown error: cannot find MSEdge binary
 	* Pass / Fail / Not executed / Suspended
-		* N/A
+		* Fail
 ---

@@ -12,9 +12,9 @@
 ## Post-conditions
 * Webdriver and corresponding browsers must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* N/A
+* 8/13/21 14:06:31
 ## Test Case Results
-* N/A
+* Pass
 ---
 ## Test Steps
 1. Step 1
@@ -25,9 +25,9 @@
 	* Expected Results
 		* Chrome open successully then navigate to https://bonigarcia.org/webdrivermanager/
 	* Actual Results
-		* N/A
+		* As expected
 	* Pass / Fail / Not executed / Suspended
-		* N/A
+		* Pass
 2. Step 2
 	* Step Details
 		* Open Firefox and navigate to https://bonigarcia.org/webdrivermanager/ using geckodriver.
@@ -36,9 +36,9 @@
 	* Expected Results
 		* Firefox open successully then navigate to https://bonigarcia.org/webdrivermanager/
 	* Actual Results
-		* N/A
+		* As expected
 	* Pass / Fail / Not executed / Suspended
-		* N/A
+		* Pass
 3. Step 3
 	* Step Details
 		* Compare title of Chrome and Firefox
@@ -47,7 +47,7 @@
 	* Expected Results
 		* Chome and Firefox has the same title
 	* Actual Results
-		* N/A
+		* As expected
 	* Pass / Fail / Not executed / Suspended
-		* N/A
+		* Pass
 ---
