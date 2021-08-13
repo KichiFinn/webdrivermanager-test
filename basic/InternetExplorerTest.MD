@@ -10,7 +10,7 @@
 ## Post-conditions
 * Webdriver and corresponding InternetExplorer browser must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* 8/13/21 16:40:15
+* 8/13/21 16:45:55
 ## Test Case Results
 * Pass
 ---
