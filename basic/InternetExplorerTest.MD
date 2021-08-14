@@ -7,6 +7,7 @@
 ## Pre-conditions
 * The test machine must have internet connection
 * InternetExplorer installed
+* All "Protected Mode" must Enable or Disable for all Security Zone: Tools>Internet Options>Security tab>Zone
 ## Post-conditions
 * Webdriver and corresponding InternetExplorer browser must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
