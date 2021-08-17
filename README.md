@@ -13,6 +13,7 @@
     ...
     java -jar em-testcasemng-tool.jar -i -f ./webrtc/WebRtcRemoteFirefoxTest.MD
 ```
+* Or just copy test case specification Markdown file and rename it
 ### 2. Design Test Case
 * Test designer add contents to test case specification files (generated Markdown files in step 1) will following rules
   *  **Any change in "Test Case ID", "Test Case Script's location", "Test Case Name", "Test Case Description", "Pre-condition", "Post-Condition", "Step Details", "Test Step's Data", or "Test Step Expected Results" will be treated as Test Design changes.**
