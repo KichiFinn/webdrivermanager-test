@@ -1,4 +1,5 @@
 # Introduction
+* A sample solution using Markdown files and GitHub to manage test case specifications and results. You could change test specifications or upload test results anywhere with a Text editor or browser. Everythings are tracked with Git history.
 * Contains all test case specifications and results (Markdown format) of [A Selenium test project](https://github.com/bonigarcia/webdrivermanager-examples.git)
 * Uses Test Case Management Tool at https://github.com/KichiFinn/em-testcasemng-tool.git
 
