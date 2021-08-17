@@ -1,5 +1,5 @@
 # Introduction
-* A sample solution using Markdown files and GitHub to manage test case specifications and results. You could change test specifications or upload test results anywhere with a Text editor or browser. Everythings are tracked with Git history.
+* A sample solution using Markdown files and GitHub to manage test case specifications and results. You could change test specifications or upload test results anywhere with a Text editor or browser. Everything are tracked with Git history.
 * Contains all test case specifications and results (Markdown format) of [A Selenium test project](https://github.com/bonigarcia/webdrivermanager-examples.git)
 * Uses Test Case Management Tool at https://github.com/KichiFinn/em-testcasemng-tool.git
 
@@ -63,12 +63,17 @@
     * Rules:
         * Ignore 'Created By', 'Create Date', 'Reviewed By', 'Reviewed Date', 'Version' and 'Log' fields in Excel File
 3. Convert Test Case Specification Markdown files in a directory to Excel
-    * Run command ```java -jar em-testcasemng-tool.jar -c -f ./webdrivermanager-test/*.MD``` to convert all Markdown files in directory 'webdrivermanager-test' (recursive) to Excel
+    * Run command ```java -jar em-testcasemng-tool.jar -c -m2e -f ./webdrivermanager-test``` to convert all Markdown files in directory 'webdrivermanager-test' (recursive) to Excel
     * Output is a Excel files
 4. Convert Test Case Specification Excel files in a directory to Markdown
-    * Run command ```java -jar em-testcasemng-tool.jar -c -f ./webdrivermanager-test/*.xlsx``` to convert all Excels files in directory 'webdrivermanager-test' (recursive) to Markdown
+    * Run command ```java -jar em-testcasemng-tool.jar -c -e2m -f ./webdrivermanager-test``` to convert all Excels files in directory 'webdrivermanager-test' (recursive) to Markdown
     * Output is a Markdown files
 ### 7. Others
 * Use any editor to edit Markdown file (may edit directly on browser with Github edit)
 * Use any Git tools to compare, merge, log to check Test Case results, Test Case changes
 * Remember use the backslash character \ to escape Markdown syntax characters: \\ \` \* \_ \{ \} \[ \] \( \) \# \+ \- \. \!
+
+### All steps are recorded in the following video
+Video: https://youtu.be/pEEBzuhhgYo
+
+[![Alt text](https://img.youtube.com/vi/pEEBzuhhgYo/0.jpg)](https://www.youtube.com/watch?v=pEEBzuhhgYo)
