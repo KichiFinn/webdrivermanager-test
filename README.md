@@ -36,7 +36,7 @@
 ### 5. Analyze
 1. Analyze all test results in a directory
     * Check out the Git version that need to be analyzed
-    * Run command ```java -jar em-testcasemng-tool.jar -a -f ./webdrivermanager-test/*.MD``` to analyze all test results in 'webdrivermanager-test' directory
+    * Run command ```java -jar em-testcasemng-tool.jar -a -f ./webdrivermanager-test``` to analyze all test results Markdown in 'webdrivermanager-test' directory
     * Analyzed Results is in a generated Excel file named **TotalAnalysis.xlsx** as following:
     ![TotalAnalysis](https://user-images.githubusercontent.com/25169430/129434378-f0fb0014-2c15-4ec9-aab4-cc25d04a603f.png)
 
