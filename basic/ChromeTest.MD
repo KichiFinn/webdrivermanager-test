@@ -1,12 +1,12 @@
 # [Basic_001](https://github.com/bonigarcia/webdrivermanager-examples/tree/master/src/test/java/io/github/bonigarcia/wdm/test/basic/ChromeTest.java)
 ## Test Case Name
-* ChromeTest
+* ChromeTest1
 ## Test Case Description
 * Webdrivermanager check Chrome version and download corresponding chromedriver automatically.
 * Then using webdriver to open https://bonigarcia.org/webdrivermanager/ and click heading.
 ## Pre-conditions
-* The test machine must have internet connection
-* Chrome installed
+* The test machine must have internet connection1
+* Chrome installed1
 ## Post-conditions
 * Webdriver and corresponding chrome browser must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
