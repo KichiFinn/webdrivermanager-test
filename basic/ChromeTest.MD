@@ -1,6 +1,6 @@
 # [Basic_001](https://github.com/bonigarcia/webdrivermanager-examples/tree/master/src/test/java/io/github/bonigarcia/wdm/test/basic/ChromeTest.java)
 ## Test Case Name
-* ChromeTest
+* ChromeTestAuto
 ## Test Case Description
 * Webdrivermanager check Chrome version and download corresponding chromedriver automatically.
 * Then using webdriver to open https://bonigarcia.org/webdrivermanager/ and click heading.
@@ -12,7 +12,7 @@
 ## Date Tested (mm/dd/yy hh:mm:ss)
 * 8/13/21 14:06:47
 ## Test Case Results
-* Pass
+* Fail
 ---
 ## Test Steps
 1. Step 1
